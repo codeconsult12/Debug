@@ -1,0 +1,19 @@
+PDT Developer Guide
+----------------------
+- Install Visual Studio 2008
+- Install Andriod Studio (Latest)
+- Open CE project on Visual Studio
+- Open Andriod Project On Andriod Studio
+- Open Service Code in Visual Studio (any version)
+- Buid And Publish Service Code.
+- Go to Published Folder
+- Get Publish File 
+- Publish Service on any server
+- Build and Run CE and Andriod Project
+
+Now you can use application easily!
+Thanks & Regards,
+
+Muhammad Ehtisham Siddiqui
+ehtishamsiddiqui3@gmail.com
++92-345-3466690

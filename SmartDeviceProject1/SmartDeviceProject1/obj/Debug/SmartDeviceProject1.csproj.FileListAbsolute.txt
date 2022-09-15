@@ -1,0 +1,23 @@
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Properties.Resources.resources
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.csproj.GenerateResource.Cache
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Login.resources
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.MainForm.resources
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.PriceChecker.resources
+C:\Users\datalog_server\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\System.Data.SqlServerCe.dll
+F:\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+F:\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+F:\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\System.Data.SqlClient.dll
+F:\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\System.Data.SqlServerCe.dll
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Login.resources
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.MainForm.resources
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.PriceChecker.resources
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Properties.Resources.resources
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.csproj.GenerateResource.Cache
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+F:\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
